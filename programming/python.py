@@ -2,6 +2,11 @@
 
 #TO DO:
 
-#print something to the console with print()
+#print something with print()
 
 #create a variable and store a number in it
+print ("apple is overated")
+
+amntofTimes=2
+
+print (amntofTimes+2)
